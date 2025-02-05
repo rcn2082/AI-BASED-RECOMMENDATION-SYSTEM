@@ -60,4 +60,6 @@ Develop a recommendation system using Java and libraries like Apache Mahout to s
 
   #OUTPUT
 
+  ![Image](https://github.com/user-attachments/assets/57237aab-c45e-46a4-9dc5-06cb54b39998)
+
   
