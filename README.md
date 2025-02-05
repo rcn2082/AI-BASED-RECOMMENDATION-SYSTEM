@@ -56,4 +56,8 @@ Develop a recommendation system using Java and libraries like Apache Mahout to s
 
 9. **Test the Application**  
    - Validate recommendations by testing with different user inputs.  
-   - Ensure system robustness and accuracy.  
+   - Ensure system robustness and accuracy.
+
+  #OUTPUT
+
+  ![Image](https://github.com/user-attachments/assets/37fbee49-f278-497b-b63d-3a3f598b32e9)
